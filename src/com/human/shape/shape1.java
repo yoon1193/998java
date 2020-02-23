@@ -7,5 +7,5 @@ public class shape1 {
 		System.out.println("안녕자바"); //문제 1
 		
 	}
-
+//test 함
 }
